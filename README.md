@@ -50,7 +50,7 @@ The workflow is triggered by an external system (e.g. a test automation framewor
 * n8n Cloud
 * Jira Credentials
 * Slack Credentials
-* External Test Automation Framework (Postman for POST method)
+* External Test Automation Framework (Postman (here) for POST method)
 
 
 ## Operations and Maintenance
