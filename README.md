@@ -44,6 +44,16 @@ The workflow is triggered by an external system (e.g. a test automation framewor
 
     <img width="402" height="819" alt="image" src="https://github.com/user-attachments/assets/dbf7ac16-32db-4599-950b-7de4cf6657c6" />
 
+## Jira
+The created tickets are seen on Jira.
+
+<img width="1600" height="772" alt="image" src="https://github.com/user-attachments/assets/9e48519b-2bf2-4b0f-9150-2b36ac598dda" />
+
+# Slack
+The messages are also sent on Slack, so that the team members are informed about the reported bugs.
+
+<img width="1398" height="737" alt="image" src="https://github.com/user-attachments/assets/f778c589-5a41-4b3a-97a0-548abcbbda0a" />
+
 
 ## Credentials Used
 
